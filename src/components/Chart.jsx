@@ -61,11 +61,6 @@ const Chart = ({chartData}) => {
                   display: false,
               }
           },
-          y: {
-            grid: {
-              color: "white"
-            }
-          },
         },
     }
     
