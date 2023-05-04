@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/expenses-chart-component-_0PAP2S7bZ](https://www.frontendmentor.io/solutions/expenses-chart-component-_0PAP2S7bZ)
+- Live Site URL: [https://jlb-expenses-chart.netlify.app/](https://jlb-expenses-chart.netlify.app/)
 
 ### Built with
 
