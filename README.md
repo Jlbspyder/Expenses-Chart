@@ -15,7 +15,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/expenses-chart-component-_0PAP2S7bZ](https://www.frontendmentor.io/solutions/expenses-chart-component-_0PAP2S7bZ)
 - Live Site URL: [https://jlb-expenses-chart.netlify.app/](https://jlb-expenses-chart.netlify.app/)
 
 ### Built with
